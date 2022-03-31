@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="源.cpp">
+    <ClCompile Include="力扣404-左叶子之和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="力扣104-二叉树的最大深度.cpp">
@@ -37,6 +37,39 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="力扣110-平衡二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣112-路径总和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣257-二叉树的所有路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣113-路径总和2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣129-求根节点到叶节点数字之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣437-路径总和III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣235-二叉搜索树的最近公共祖先.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣98-验证二叉搜索树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣450-删除二叉搜索树中的节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣108-将有序数组转换为二叉搜索树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣230-二叉搜索树中第K小的元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣236-二叉树的最近公共祖先.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
